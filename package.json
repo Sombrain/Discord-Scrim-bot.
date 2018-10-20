@@ -1,0 +1,15 @@
+{
+  "name": "scrimbot",
+  "version": "1.0.0",
+  "description": "Scrimbot made for Sniper games in the T2B discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sombrain#0070, Can be found in the T2B discord server. Or via twitch on the \"Toby2b\" Channel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "file-system": "^2.2.2"
+  }
+}
